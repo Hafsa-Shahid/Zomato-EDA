@@ -1,2 +1,2 @@
 # Zomato-EDA
-Data Cleaning and EDA using Python on Zomato Restaurant in India
+These files are one of my dearest portfolio projects I ever did. I was given a dataset of Zomato, a restaurant and food delivery app in India. The data was a mess, so I had to clean it first, to analyize it. The first file is the cleaning process, which I went through using Python. Then, I visualized it to gain insights and performed a very basic exploratory data analysis using matplotlib, pandas and seaborn libraries.
